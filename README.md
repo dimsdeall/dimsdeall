@@ -1,7 +1,7 @@
 <h1>Dimas Nurcahyo Putra - @Dimsdeall</h1>
 
 - 👋 Hello Word! 
-- 👀 Tertarik pada bidang Software Enginer
+- 👀 Tertarik pada bidang Software Engineer
 - <a href='https://www.linkedin.com/in/dimas-nurcahyo-putra-755554201/'>linked</a>
 <!---
 dimsdeall/dimsdeall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
