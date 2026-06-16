@@ -15,32 +15,6 @@
 
 I'm a passionate developer with experience building scalable applications and exploring cutting-edge technologies. I love solving problems, learning new frameworks, and contributing to open source.
 
-- 🔧 **Backend**: Node.js, NestJS, Express, Laravel
-- ⚛️ **Frontend**: React, Vue, TypeScript
-- 🗄️ **Databases**: MySQL, PostgreSQL, Firebase
-- 🐳 **DevOps**: Docker, Firebase Deployment
-- 🏗️ **Architecture**: Event-Driven, Microservices
-
----
-
-## 🎯 Featured Projects
-
-### 🌟 Production & Portfolio
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**dimsdeall.github.io**](https://github.com/dimsdeall/dimsdeall.gtihub.io) | Personal Portfolio Website | HTML, CSS, JavaScript |
-| [**event-driven-simple-case**](https://github.com/dimsdeall/event-driven-simple-case) | Event-Driven Architecture Tutorial | Node.js, RabbitMQ, PostgreSQL, MySQL |
-| [**rabbitmq-simple-case**](https://github.com/dimsdeall/rabbitmq-simple-case) | Message Queue Implementation | TypeScript, RabbitMQ |
-
-### 🎓 Learning & Experimentation
-
-| Project | Purpose | Stack |
-|---------|---------|-------|
-| [**Algo-No-1 Series**](https://github.com/dimsdeall?tab=repositories&q=Algo) | Algorithm Studies | HTML, JavaScript |
-| [**firebase-react-atomic**](https://github.com/dimsdeall/firebase-react-atomic) | React + Firebase Integration | React, Firebase |
-| [**react-state-management**](https://github.com/dimsdeall/react-state-management) | State Management Patterns | React, Redux |
-
 ---
 
 ## 💻 Tech Stack
