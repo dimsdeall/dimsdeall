@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Dimas Nurcahyo Putra</h1>
   <p>
-    <strong>Full Stack Developer</strong> | Tech Enthusiast | Open Source Contributor
+    <strong>Full Stack Developer</strong> | Tech Enthusiast
   </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-nurcahyo-putra-755554201/)
