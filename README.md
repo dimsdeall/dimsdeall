@@ -13,25 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with experience building scalable applications and exploring cutting-edge technologies. I love solving problems, learning new frameworks, and contributing to open source projects.
+I'm a passionate developer with experience building scalable applications and exploring cutting-edge technologies. I love solving problems, learning new frameworks, and contributing to open source.
 
 - 🔧 **Backend**: Node.js, NestJS, Express, Laravel
 - ⚛️ **Frontend**: React, Vue, TypeScript
 - 🗄️ **Databases**: MySQL, PostgreSQL, Firebase
 - 🐳 **DevOps**: Docker, Firebase Deployment
 - 🏗️ **Architecture**: Event-Driven, Microservices
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dimsdeall&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimsdeall&layout=compact&theme=dark)
-
-</div>
 
 ---
 
